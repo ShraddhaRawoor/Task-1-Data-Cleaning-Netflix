@@ -12,7 +12,7 @@ Netflix Movies and TV Shows Dataset
 
 * Python
 * Pandas
-* Jupyter Notebook / VS Code
+* VS Code
 
 ## Data Cleaning Steps Performed
 

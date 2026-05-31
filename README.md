@@ -46,29 +46,3 @@ Netflix Movies and TV Shows Dataset
 
 The dataset was successfully cleaned and prepared for further analysis and visualization.
 
-
-DATA CLEANING SUMMARY
-
-Dataset Name: Netflix Movies and TV Shows
-
-Total Records: 8807
-Total Columns: 12
-
-Cleaning Actions Performed:
-
-1. Checked missing values.
-2. Removed duplicate rows.
-3. Standardized column names.
-4. Filled missing values in:
-   - Director
-   - Cast
-   - Country
-   - Rating
-   - Duration
-5. Converted date_added column into datetime format.
-6. Trimmed unnecessary spaces in text columns.
-7. Verified data types and data quality.
-
-Result:
-
-The dataset is now clean, consistent, and ready for analysis or machine learning tasks.
